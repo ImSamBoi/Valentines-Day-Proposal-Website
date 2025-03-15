@@ -14,7 +14,7 @@ A simple and fun Next.js project where users are asked, "Will you be my Valentin
 
 ```sh
 git clone https://github.com/ImSamBoi/Valentines-Day-Proposal-Website.git
-cd valentines-day-proposal
+cd .\Valentines-Day-Proposal-Website\
 ```
 
 2. Install the required packages
